@@ -20,7 +20,7 @@ if (body) {
       // 将歌手改为固定文本“点击播放—>”
       obj.data.song_singer = "";
       // 修改封面为指定链接
-      obj.data.cover = "https://api.yujn.cn/api/upload_tx.php?url=https://img.xiyan.pro/i/2025/03/24/uij1jo.png";
+      obj.data.cover = "http://fmc-75014.picgzc.qpic.cn/consult_viewer_pic__6ab72284-c539-4889-9de3-97eafa57de88_1742814943630.jpg";
     }
     $done({body: JSON.stringify(obj)});
   } catch (e) {
