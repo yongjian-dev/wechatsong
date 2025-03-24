@@ -1,6 +1,6 @@
-//  mikoto - 修改点歌卡片的封面by夕颜
+//  mikoto - 修改点歌卡片的封面by mubai
 //使用方法：圈x 添加主机名  api.dragonlongzhu.cn
-//修改本配置的文件名为mkqqyy.js
+//修改本配置的文件名为mubai.js
 //把这个配置放到文件app-quantumultx-Scripts
 //修改本配置显示文本和封面链接
 //然后点歌
@@ -24,10 +24,10 @@ if (body) {
     }
     $done({body: JSON.stringify(obj)});
   } catch (e) {
-    console.log("解析失败by夕颜:", e);
+    console.log("解析失败by mubai:", e);
     $done({body});
   }
 } else {
   $done({});
 }
-//by夕颜
+//by mubai
