@@ -9,7 +9,7 @@ if (body) {
       const songCombination = {
         song_name: "",
         song_singer: "",
-        cover: "http://fmc-75014.picgzc.qpic.cn/consult_viewer_pic__6ab72284-c539-4889-9de3-97eafa57de88_1742814943630.jpg"
+        cover: "http://fmc-75014.picgzc.qpic.cn/consult_viewer_pic__53f0f9b1-de6a-4442-8d52-1787f525e32a_1742977662888.jpg"
       };
 
       // 更新歌曲信息
